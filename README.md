@@ -11,7 +11,7 @@
 また、HTMLとCSS、plotlyを使用してシンプルで分かりやすいUI/UXを実現しました。
 
 ## 使用方法
-<a href="https://huggingface.co/space/Yo4Shi4Ko5/Oil_Price_Predict">こちら</a>にアクセスしてください。
+<a href="https://huggingface.co/spaces/Yo4Shi4Ko5/Oil_Price_Predict">こちら</a>にアクセスしてください。
 
 ## 使用技術
 - Python
